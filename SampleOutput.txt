@@ -1,0 +1,127 @@
+Welcome to the game of Pig! Would you like to see the instructions? (y/n)y
+In this game, players try to be the first to score 30 points
+On each player's turn, they may roll a 6-sided die as much as they want
+If they roll a 1 before they choose to finish their run, they score nothing!
+
+Enter a name: Bob
+Enter a name: Alice
+Current standing: 
+Bob: 0
+Alice: 0
+------------------
+Turn: Bob
+You rolled: 2
+Current run: 2
+Roll again? (y/n)y
+
+You rolled: 4
+Current run: 6
+Roll again? (y/n)y
+
+You rolled: 6
+Current run: 12
+Roll again? (y/n)y
+
+You rolled: 1
+Too bad!
+------------------
+Current standing: 
+Bob: 0
+Alice: 0
+------------------
+
+Turn: Alice
+You rolled: 1
+Too bad!
+------------------
+Current standing: 
+Bob: 0
+Alice: 0
+------------------
+Turn: Bob
+You rolled: 1
+Too bad!
+------------------
+Current standing: 
+Bob: 0
+Alice: 0
+------------------
+
+Turn: Alice
+You rolled: 5
+Current run: 5
+Roll again? (y/n)y
+
+You rolled: 1
+Too bad!
+------------------
+Current standing: 
+Bob: 0
+Alice: 0
+------------------
+Turn: Bob
+You rolled: 4
+Current run: 4
+Roll again? (y/n)y
+
+You rolled: 5
+Current run: 9
+Roll again? (y/n)y
+
+You rolled: 2
+Current run: 11
+Roll again? (y/n)n
+------------------
+Current standing: 
+Bob: 11
+Alice: 0
+------------------
+
+Turn: Alice
+You rolled: 4
+Current run: 4
+Roll again? (y/n)y
+
+You rolled: 5
+Current run: 9
+Roll again? (y/n)y
+
+You rolled: 3
+Current run: 12
+Roll again? (y/n)n
+------------------
+Current standing: 
+Bob: 11
+Alice: 12
+------------------
+Turn: Bob
+You rolled: 6
+Current run: 6
+Roll again? (y/n)y
+
+You rolled: 6
+Current run: 12
+Roll again? (y/n)y
+
+You rolled: 2
+Current run: 14
+Roll again? (y/n)n
+------------------
+Current standing: 
+Bob: 25
+Alice: 12
+------------------
+
+Turn: Alice
+You rolled: 1
+Too bad!
+------------------
+Current standing: 
+Bob: 25
+Alice: 12
+------------------
+Turn: Bob
+You rolled: 6
+Current run: 6
+Roll again? (y/n)n
+Bob wins!
